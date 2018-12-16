@@ -14,7 +14,7 @@ include ../../make.inc
 #
 # [1] Toledo, S. 1997. Locality of Reference in LU Decomposition with
 #  Partial Pivoting. SIAM J. Matrix Anal. Appl. 18, 4 (Oct. 1997),
-#  1065-1081. http://dx.doi.org/10.1137/S0895479896297744
+#  1065-1081. https://doi.org/10.1137/S0895479896297744
 #######################################################################
 
 VARIANTSDIR=LIB
